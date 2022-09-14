@@ -9,7 +9,6 @@
 import Foundation
 import UIKit
 
-
 internal enum Colors {
 
     static var gradientBackground: [CGColor] {
